@@ -1,5 +1,5 @@
 {
-  "name": "glee-example",
+  "name": "squawk",
   "version": "0.1.0",
   "description": "An example of the AsyncAPI Glee framework",
   "type": "module",
