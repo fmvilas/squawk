@@ -1,3 +1,3 @@
-# Dummy
+# Squawk
 
-This is a dummy example mainly used to test functionalities.
+This is an example to demo the capabilities of Glee.
